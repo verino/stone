@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "del": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-cache": "*",
+    "gulp-clean-css": "*",
+    "gulp-concat": "*",
+    "gulp-csscomb": "*",
+    "gulp-cssnano": "*",
+    "gulp-group-css-media-queries": "*",
+    "gulp-imagemin": "*",
+    "browser-sync": "*",
+    "gulp-notify": "*",
+    "gulp-rename": "*",
+    "gulp-rigger": "*",
+    "gulp-ruby-sass": "*",
+    "gulp-uglifyjs": "*",
+    "gulp-uncss": "*",
+    "gulp.spritesmith": "*",
+    "imagemin-pngquant": "*"
+  }
+}
